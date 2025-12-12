@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736554910585",
+    "project_id": "recruitswift",
+    "storage_bucket": "recruitswift.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736554910585:android:b9ee47c19d8d750feba5a8",
+        "android_client_info": {
+          "package_name": "com.yogendrakarri.recruitswift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkA_2QpQ89lr4WsHJfN0qHeE-5NfgSC9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
