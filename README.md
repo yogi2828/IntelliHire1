@@ -162,16 +162,10 @@ flutter:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **\[Insert License Name, e.g., MIT License]**. See the `LICENSE` file for details.
-
----
-
 ## 🧑‍💻 The IntelliHire Team
 
-1. **Bhushan Dhoble**
-2. **Amol Dhote**
-3. **Yogendra Karri**
+1. **Yogendra Karii**
+2. **Mihir Valand**
+3. **Pavan T.M**
 
 ---
